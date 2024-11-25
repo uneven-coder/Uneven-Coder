@@ -4,8 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=callum-duncan&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=callum-duncan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callum-duncan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
----
-<figure><embed src="https://wakatime.com/share/@4e49d1cb-a325-4aaf-870d-7219aac9c213/2c186ebe-82a5-45b2-b0b4-ba5c64507d2a.svg"></embed></figure>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=callum-duncan&icon=0&color=0)](https://visitcount.itsvg.in)
 
