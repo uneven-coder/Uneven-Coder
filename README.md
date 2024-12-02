@@ -10,4 +10,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Time spent](https://github-readme-stats.vercel.app/api/wakatime?username=Callum-Duncan)](https://github.com/anuraghazra/github-readme-stats)
+[![Time spent](https://github-readme-stats.vercel.app/api/wakatime?username=Callumduncan)](https://github.com/anuraghazra/github-readme-stats)
