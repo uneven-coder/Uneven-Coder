@@ -9,3 +9,5 @@
 [![](https://visitcount.itsvg.in/api?id=callum-duncan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Time spent](https://github-readme-stats.vercel.app/api/wakatime?username=callum-duncan)](https://github.com/anuraghazra/github-readme-stats)
